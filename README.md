@@ -29,4 +29,4 @@ Se solicita crear una API REST basada en la definición que se encuentra en el a
 
 - Enviar el link del repositorio donde se realiza este ejercicio.
 
-¡Éxitos! 📚🚀
+¡Buena Suerte! 
